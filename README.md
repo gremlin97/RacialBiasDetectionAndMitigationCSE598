@@ -5,3 +5,5 @@ This repository contains code for my CSE598: Machine Learning Fairness and Secur
 * COCO Demographic annotations found at this link: https://princetonvisualai.github.io/imagecaptioning-bias/
 
 * COCO 2014 train annotations JSON file
+
+For any issues regarding the code please mail me at: kkasodek@asu.edu
